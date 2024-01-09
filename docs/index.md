@@ -161,3 +161,29 @@ I am now a Professor at the School of Information and Communication Engineering,
 
 28.  Fengyuan Ren, __Jiao Zhang__, Tao He, Chuang Lin, Sajal K. Das, “EBRP: Energy-Balanced Routing Protocol for Data Gathering in Wireless Sensor Networks”, in ___IEEE Trans. on Parallel and Distributed Systems (TPDS)___, 22(12), pp. 2108-2125, 2011.
 </font>
+
+
+## **Alumni**
+### PhD Students：
+<font size=4>
+> 2018：汪硕 北京邮电大学  
+> 2021：黄程远 南京大学  
+> 2021：王泽南 紫金山实验室（PML Lab）  
+</font>
+
+### Master Students：
+<font size=4>
+> 2018 刘增义 中国电信研究院  
+> 2018 马宁宁 招商银行  
+> 2018 奚杰  中国移动     
+> 2019 杨俊杰 广东联通  
+> 2019 吴宏卓 爱立信  
+> 2019 张紫薇 吉林移动  
+> 2020 张劲声 交通银行  
+> 2020 柴华 中国信通院  
+> 2020 文殊博 字节跳动  
+> 2022 付旭阳 字节跳动  
+> 2023  张远  锐捷网络   
+> 2023 钟小龙 字节跳动  
+> 2023 李浩哲 字节跳动  
+</font>
