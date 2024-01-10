@@ -166,24 +166,24 @@ I am now a Professor at the School of Information and Communication Engineering,
 ## **Alumni**
 ### PhD Students：
 <font size=4>
-> 2018：汪硕 北京邮电大学  
-> 2021：黄程远 南京大学  
-> 2021：王泽南 紫金山实验室（PML Lab）  
+- Shuo Wang, Beijing University of Posts and Telecommunications(BUPT), 2018  
+- Chengyuan Huang, Nanjing University, 2021  
+- Zenan Wang, Purple Mountain Laboratories(PML Lab), 2021  
 </font>
 
 ### Master Students：
 <font size=4>
-> 2018 刘增义 中国电信研究院  
-> 2018 马宁宁 招商银行  
-> 2018 奚杰  中国移动     
-> 2019 杨俊杰 广东联通  
-> 2019 吴宏卓 爱立信  
-> 2019 张紫薇 吉林移动  
-> 2020 张劲声 交通银行  
-> 2020 柴华 中国信通院  
-> 2020 文殊博 字节跳动  
-> 2022 付旭阳 字节跳动  
-> 2023  张远  锐捷网络   
-> 2023 钟小龙 字节跳动  
-> 2023 李浩哲 字节跳动  
+- Zengyi Liu, China Academy of Telecommunication Research, 2018  
+- Ningning Ma, China Merchants Bank, 2018  
+- Jie Xi, China Mobile, 2018       
+- Junjie Liu, China United Network Communications Corporation Guangzhou Branch, 2019  
+- Hongzhuo Wu, Telefonaktiebolaget LM Ericsson, 2019  
+- Ziwei zhang, Jilin Mobile, 2019  
+- Jingsheng Zhang, Bank of Communications, 2020  
+- Hua Chai, China Academy of Information and Communications Technology, 2020  
+- Shubo Wen, ByteDance, 2020  
+- Xuyang Fu, ByteDance, 2022  
+- Yuan Zhang, Ruijie Networks, 2023   
+- Xiaolong zhong, ByteDance, 2023  
+- Haozhe Li, ByteDance, 2023  
 </font>
