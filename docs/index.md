@@ -21,85 +21,97 @@ I am now a Professor at the School of Information and Communication Engineering,
 ### [Conference]
 <font size=4>
 
-1.     Zirui Wan, __*Jiao Zhang*__, Mingxuan Yu, Junwei Liu, Jun Yao, Xinghua Zhao and Tao Huang, "BiCC: Bilateral Congestion Control in Cross-Datacenter RDMA Networks," to appear in ___IEEE INFOCOM___, 2024.
+1.     Zirui Wan, __Jiao Zhang*__, Yuxiang Wang, Kefei Liu, Haoyu Pan, Tao Huang, "Rethinking Intra-host Congestion Control in RDMA Networks", to appear in ___APNet___, 2024
 
-2.     Dehui Wei, __Jiao Zhang*__, Haozhe Li, Zhichen Xue, Jialin Li, Yajie Peng, Xiaofei Pang, Yuanjie Liu, Rui Han, "Pscheduler: QoE-Enhanced MultiPath Scheduler for Video Services in Large-scale Peer-to-Peer CDNs", to appear in ___IEEE INFOCOM___, 2024.
+2.     Huimin Luo, __Jiao Zhang*__, Yongchen Pan, Tian Pan  and Tao Huang, "Blaze: Delay-Aware Cloud-Edge Collaborative Service Function Chain Deployment with Network Calculus," in ___proc. of IEEE WCNC___, 2024.
 
-3.     Tian Pan, Kun Liu, Xionglie Wei, Yisong Qiao, Jun Hu, Zhiguo Li, Jun Liang, Tiesheng Cheng, Wenqiang Su, Jie Lu, Yuke Hong, Zhengzhong Wang, Zhi Xu, Chongjing Dai, Peiqiao Wang, Xuetao Jia, Jianyuan Lu, Enge Song, Jun Zeng, Biao Lyu, Ennan Zhai, __Jiao Zhang__, Tao Huang, Dennis Cai and Shunmin Zhu, LuoShen, “A Hyper-Converged Programmable Gateway for Multi-Tenant Multi-Service Edge Clouds”, to appear in ___USENIX NSDI___, 2024.
+3.     Ying Chen, __Jiao Zhang*__ , Tian Pan, Tao Huang, Chengcheng Li, Yasheng Zhang，"SARO: Intelligent Data-Driven Routing Optimization for LEO Satellite Networks", in ___proc. of IEEE ISCC___, 2024.
 
-4.     Kefei Liu, Zhuo Jiang, __Jiao Zhang*__, Haoran Wei, Xiaolong Zhong, Lizhuang Tan, Tian Pan, Tao Huang, “Hostping: Diagnosing Intra-host Network Bottlenecks in RDMA Servers”, in proc. of ___USENIX NSDI___, Apr. 2023.[:fontawesome-regular-file-pdf: PDF](https://jiao-bupt.github.io/papers/Hostping_NSDI.pdf){.md-button}
+4.     Kefei Liu, __Jiao Zhang*__, Zhuo Jiang, Xuan Zhang, Shixian Guo, Yangyang Bai, Yongbin Dong, Zhang Zhang, Xiang Shi, Lei Wang, Haoran Wei, Zicheng Wang, Yongchen Pan, Tian Pan, Tao Huang, "Hostmesh: Monitor and Diagnose Networks in Rail-optimized RoCE Clusters", to appear in ___APNet___, 2024
 
-5.     Tian Pan, Shuihai Hu, Guangyu An, Xincai Fei, Fanzhao Wang, Yueke Chi, Minglan Gao, Hao Wu, __Jiao Zhang__, Tao Huang, Jingbin Zhou and Kun Tan, Amphis, “Rearchitecturing Congestion Control for Capturing Internet Application Variety”, in proc. of ___ACM APNet___, 2023.
+5.     Dehui Wei, __Jiao Zhang*__, Haozhe Li, Yuanjie Liu, Xuan Zhang, Tian Pan, Tao Huang. “Breaking the Inertial Thinking: Non-Blocking Multipath Congestion Control Based on the Single-Subflow Reinforcement Learning Model”. ___IEEE Transactions on Network and Service Management (TNSM)___. 2024
 
-6.     Enge Song, Nianbing Yu, Tian Pan,Qiang Fuo, Liang Xu, Xionglie Wei, Yisong Qiao, Jianyuan Lu, Yijian Dong, Mingxu Xie, Jun He, Jinkui Mao, Zhengjie Luo, Chenhao jia, __Jiao Zhang__, Tao Huang Biao Lyu, Shunmin Zhu, “MIMIC: SmartNIC-aided Flow Backpressure for CPU Overloading Protection in Multi-Tenant Clouds”, in proc. of ___IEEE ICNP___, 2022.
+6.     __Jiao Zhang*__, Yuqing Wang, Xiaolong Zhong, Mingxuan Yu, Haoyu Pan, Yali Zhang, Zixuan Guan, Biyao Che, Zirui Wan, Tian Pan and Tao Huang, "PACC: A Proactive CNP Generation Scheme for Datacenter Networks," ___IEEE/ACM TRANSACTIONS ON NETWORKING (TON)___, 2024
 
-7.     Enge Song, Tian Pan, Qiang Fu, Chenhao Jia, __Jiao Zhang__, Tao Huang, Yun-lie Liu, “WebQMon.ai: Gateway-Based WebQoE Assessment Using Lightweight Neural Networks”. in proc. of ___Springer ICSOC___, 2022.
+7.     Zirui Wan, __Jiao Zhang*__, Mingxuan Yu, Junwei Liu, Jun Yao, Xinghua Zhao and Tao Huang, "BiCC: Bilateral Congestion Control in Cross-Datacenter RDMA Networks," to appear in ___IEEE INFOCOM___, 2024.
 
-8.     Xiaolong Zhong, __Jiao Zhang*__, Yali Zhang, Zixuan Guan, Zirui Wan, “PACC: Proactive and Accurate Congestion Feedback for RDMA Congestion Control”, in proc. of ___IEEE INFOCOM___, 2022. [:fontawesome-regular-file-pdf: PDF](https://jiao-bupt.github.io/papers/2022_PACC_INFOCOM.pdf){.md-button}
+8.     Dehui Wei, __Jiao Zhang*__, Haozhe Li, Zhichen Xue, Jialin Li, Yajie Peng, Xiaofei Pang, Yuanjie Liu, Rui Han, "Pscheduler: QoE-Enhanced MultiPath Scheduler for Video Services in Large-scale Peer-to-Peer CDNs", to appear in ___IEEE INFOCOM___, 2024.
 
-9.     __Jiao Zhang__, Shi Jiaming, Zhong Xiaolong, Wan Zirui, Tian Yu, Pan Tian, Huang Tao, “Receiver-Driven RDMA Congestion Control by Differentiating Congestion Types in Datacenter Networks”. In proc. of ___IEEE ICNP___, 2021.
+9.     Tian Pan, Kun Liu, Xionglie Wei, Yisong Qiao, Jun Hu, Zhiguo Li, Jun Liang, Tiesheng Cheng, Wenqiang Su, Jie Lu, Yuke Hong, Zhengzhong Wang, Zhi Xu, Chongjing Dai, Peiqiao Wang, Xuetao Jia, Jianyuan Lu, Enge Song, Jun Zeng, Biao Lyu, Ennan Zhai, __Jiao Zhang__, Tao Huang, Dennis Cai and Shunmin Zhu, LuoShen, “A Hyper-Converged Programmable Gateway for Multi-Tenant Multi-Service Edge Clouds”, to appear in ___USENIX NSDI___, 2024.
 
-10.  __Jiao Zhang__, Gao Yuxuan, Wen Shubo, Pan Tian, Huang Tao, “Loom: Switch-based Cloud Load Balancer with Compressed States”. In proc. of ___IEEE ICNP___, 2021.
+10.     Kefei Liu, Zhuo Jiang, __Jiao Zhang*__, Haoran Wei, Xiaolong Zhong, Lizhuang Tan, Tian Pan, Tao Huang, “Hostping: Diagnosing Intra-host Network Bottlenecks in RDMA Servers”, in proc. of ___USENIX NSDI___, Apr. 2023.[:fontawesome-regular-file-pdf: PDF](https://jiao-bupt.github.io/papers/Hostping_NSDI.pdf){.md-button}
 
-11.  Tian Pan, Nianbing Yu, Chenhao Jia, Jianwen Pi, Liang Xu, Yisong Qiao, Zhiguo Li, Kun Liu, Jie Lu, Jianyuan Lu, Enge Song, __Jiao Zhang__, Tao Huang and Shunmin Zhu, Sailfish, “Accelerating Cloud-Scale Multi-Tenant Multi-Service Gateways with Programmable Switches”, in proc. of ___ACM SIGCOMM___, 2021.
+11.     Tian Pan, Shuihai Hu, Guangyu An, Xincai Fei, Fanzhao Wang, Yueke Chi, Minglan Gao, Hao Wu, __Jiao Zhang__, Tao Huang, Jingbin Zhou and Kun Tan, Amphis, “Rearchitecturing Congestion Control for Capturing Internet Application Variety”, in proc. of ___ACM APNet___, 2023.
 
-12.  Pan T, Lin X, Song H, Song E, Bian Z, Li H, __Jiao Zhang__, Li F, Huang T, Jia C, Liu B, “INT-probe: Lightweight In-band Network-Wide Telemetry with Stationary Probes”. In proc. of ___IEEE ICDCS___, 2021.
+12.     Enge Song, Nianbing Yu, Tian Pan,Qiang Fuo, Liang Xu, Xionglie Wei, Yisong Qiao, Jianyuan Lu, Yijian Dong, Mingxu Xie, Jun He, Jinkui Mao, Zhengjie Luo, Chenhao jia, __Jiao Zhang__, Tao Huang Biao Lyu, Shunmin Zhu, “MIMIC: SmartNIC-aided Flow Backpressure for CPU Overloading Protection in Multi-Tenant Clouds”, in proc. of ___IEEE ICNP___, 2022.
 
-13.  __Jiao Zhang__, Yali Zhang, Zixuan Guan, Zirui Wan, Yinben Xia, Tian Pan, Tao Huang, Dezhi Tang, Yun Lin, “HierCC: Hierarchical RDMA Congestion Control”, in proc. of ___ACM APNet___, 2021.
+13.     Enge Song, Tian Pan, Qiang Fu, Chenhao Jia, __Jiao Zhang__, Tao Huang, Yun-lie Liu, “WebQMon.ai: Gateway-Based WebQoE Assessment Using Lightweight Neural Networks”. in proc. of ___Springer ICSOC___, 2022.
 
-14.  Song, E., Pan, T., Jia, C., Cao, W., __Zhang, J.__, Huang, T. and Liu, Y., “INT-label: Lightweight In-band Network-Wide Telemetry via Interval-based Distributed Labelling”, in proc. of ___IEEE INFOCOM___, 2021.
+14.     Xiaolong Zhong, __Jiao Zhang*__, Yali Zhang, Zixuan Guan, Zirui Wan, “PACC: Proactive and Accurate Congestion Feedback for RDMA Congestion Control”, in proc. of ___IEEE INFOCOM___, 2022. [:fontawesome-regular-file-pdf: PDF](https://jiao-bupt.github.io/papers/2022_PACC_INFOCOM.pdf){.md-button}
 
-15.  Song, Enge, Tian Pan, Chenhao Jia, Wendi Cao, __Jiao Zhang__, Tao Huang, and Yunjie Liu, "Int-filter: Mitigating data collection overhead for high-resolution in-band network telemetry." In proc. of ___IEEE GLOBECOM___, 2020.
+15.     __Jiao Zhang__, Shi Jiaming, Zhong Xiaolong, Wan Zirui, Tian Yu, Pan Tian, Huang Tao, “Receiver-Driven RDMA Congestion Control by Differentiating Congestion Types in Datacenter Networks”. In proc. of ___IEEE ICNP___, 2021.
 
-16.  Wang Zenan, __Jiao Zhang__, Haoran Wei, et al. “Hieﬀ: Enabling Eﬀicient VNF Clusters by Coordinating VNF Scaling and Flow Scheduling”. In Proc. of ___IEEE IPCCC___，Nov. 2020.
+16.     __Jiao Zhang__, Gao Yuxuan, Wen Shubo, Pan Tian, Huang Tao, “Loom: Switch-based Cloud Load Balancer with Compressed States”. In proc. of ___IEEE ICNP___, 2021.
 
-17.  Qian Li, __Jiao Zhang__, Tian Pan, Tao Huang, Yunjie Liu, “Data-driven Routing Optimization based on Programmable Data Plane”, in proc. of ___IEEE ICCCN___, 2020.
+17.  Tian Pan, Nianbing Yu, Chenhao Jia, Jianwen Pi, Liang Xu, Yisong Qiao, Zhiguo Li, Kun Liu, Jie Lu, Jianyuan Lu, Enge Song, __Jiao Zhang__, Tao Huang and Shunmin Zhu, Sailfish, “Accelerating Cloud-Scale Multi-Tenant Multi-Service Gateways with Programmable Switches”, in proc. of ___ACM SIGCOMM___, 2021.
 
-18.  Chengyuan Huang, __Jiao Zhang__, Tao Huang. “Objective-Oriented Resource Pooling in MPTCP: A Deep Reinforcement Learning Approach”, In Proc. of ___IEEE HotICN___, 2020.
+18.  Pan T, Lin X, Song H, Song E, Bian Z, Li H, __Jiao Zhang__, Li F, Huang T, Jia C, Liu B, “INT-probe: Lightweight In-band Network-Wide Telemetry with Stationary Probes”. In proc. of ___IEEE ICDCS___, 2021.
 
-19.  Kefei Liu, __Jiao Zhang__, Dehui Wei, Kai Zhang, Tao Huang. “PLB: Adaptive Partial Congestion-aware Load Balancing for Datacenter Networks”. In Proc. of ___IEEE GLOBECOM___，2020.
+19.  __Jiao Zhang__, Yali Zhang, Zixuan Guan, Zirui Wan, Yinben Xia, Tian Pan, Tao Huang, Dezhi Tang, Yun Lin, “HierCC: Hierarchical RDMA Congestion Control”, in proc. of ___ACM APNet___, 2021.
 
-20.  Hua Chai, __Jiao Zhang__, Jiaming Shi, Zenan Wang, Tao Huang, “A Parallel Placement Approach for Service Function Chain Using Deep Reinforcement Learning”, in proc. of ___IEEE ICCC___, 2019.
+20.  Song, E., Pan, T., Jia, C., Cao, W., __Zhang, J.__, Huang, T. and Liu, Y., “INT-label: Lightweight In-band Network-Wide Telemetry via Interval-based Distributed Labelling”, in proc. of ___IEEE INFOCOM___, 2021.
 
-21.  Pan T, Lin X, __Zhang J__, Li H, Lv J, Huang T, Liu B, Zhang B, “Nb-cache: non-blocking in-network caching for high-speed content routers”. In proc. of ___IEEE/ACM IWQoS___, 2019.
+21.  Song, Enge, Tian Pan, Chenhao Jia, Wendi Cao, __Jiao Zhang__, Tao Huang, and Yunjie Liu, "Int-filter: Mitigating data collection overhead for high-resolution in-band network telemetry." In proc. of ___IEEE GLOBECOM___, 2020.
 
-22.  Tian Pan, Enge Song, Zizheng Bian, Xingchen Lin, Xiaoyu Peng, __Jiao Zhang__, Tao Huang, Bin Liu, Yunjie Liu, “INT-path: Towards Optimal Path Planning for In-band Network-Wide Telemetry”, in proc. of ___IEEE INFOCOM___, 2019.
+22.  Wang Zenan, __Jiao Zhang__, Haoran Wei, et al. “Hieﬀ: Enabling Eﬀicient VNF Clusters by Coordinating VNF Scaling and Flow Scheduling”. In Proc. of ___IEEE IPCCC___，Nov. 2020.
 
-23. __Jiao Zhang__, Zenan Wang, Chunyi Peng, Linquan Zhang, Tao Huang, Yunjie Liu, “RABA: Resource-Aware Backup Allocation For A Chain of Virtual Network Functions”, in proc. of ___IEEE INFOCOM___, 2019.
+23.  Qian Li, __Jiao Zhang__, Tian Pan, Tao Huang, Yunjie Liu, “Data-driven Routing Optimization based on Programmable Data Plane”, in proc. of ___IEEE ICCCN___, 2020.
 
-24.  Ziwei Zhang, __Jiao Zhang__, Tao Huang, “The Reliability Mapping Monitoring Method of Network Function Virtualization”, in proc. of IEEE ICCC, 2018.
+24.  Chengyuan Huang, __Jiao Zhang__, Tao Huang. “Objective-Oriented Resource Pooling in MPTCP: A Deep Reinforcement Learning Approach”, In Proc. of ___IEEE HotICN___, 2020.
 
-25.  Ningning Ma, __Jiao Zhang__, Tao Huang, “A Model Based on Genetic Algorithm for Service Chain Resource Allocation in NFV”, in proc. of ___IEEE ICCCC___, 2018.
+25.  Kefei Liu, __Jiao Zhang__, Dehui Wei, Kai Zhang, Tao Huang. “PLB: Adaptive Partial Congestion-aware Load Balancing for Datacenter Networks”. In Proc. of ___IEEE GLOBECOM___，2020.
 
-26.  Zenan Wang, __Jiao Zhang__, Tao Huang, Yunjie Liu, “A Clustering-based Approach for Virtual Network Function Mapping and Assigning”, in proc. of ___IEEE/ACM IWQoS (Work-in-Progress)___, 2017.
+26.  Hua Chai, __Jiao Zhang__, Jiaming Shi, Zenan Wang, Tao Huang, “A Parallel Placement Approach for Service Function Chain Using Deep Reinforcement Learning”, in proc. of ___IEEE ICCC___, 2019.
 
-27.  Shuo Wang, __Jiao Zhang__, Tao Huang, Tian Pan, Jiang Liu, Yunjie Liu, Jin Li, Feng Li, “Skipping Congestion-links for Coflow Scheduling”, in proc. of ___IEEE/ACM IWQoS___, Spain, 2017.
+27.  Pan T, Lin X, __Zhang J__, Li H, Lv J, Huang T, Liu B, Zhang B, “Nb-cache: non-blocking in-network caching for high-speed content routers”. In proc. of ___IEEE/ACM IWQoS___, 2019.
 
-28.  Shuo Wang, __Jiao Zhang__, Tao Huang, Tian Pan, Jiang Liu, Yunjie Liu, “Adaptively Adjusting ECN Marking Thresholds for Datacenter Networks”, in proc. of ___IEEE ICNP (poster)___, Oct. 2017.
+28.  Tian Pan, Enge Song, Zizheng Bian, Xingchen Lin, Xiaoyu Peng, __Jiao Zhang__, Tao Huang, Bin Liu, Yunjie Liu, “INT-path: Towards Optimal Path Planning for In-band Network-Wide Telemetry”, in proc. of ___IEEE INFOCOM___, 2019.
 
-29.  Shuo Wang, __Jiao Zhang__, Tao Huang, Tian Pan, Jiang Liu, Yunjie Liu，”Leveraging Multiple Coflow Attributes for Information-Agnostic Coflow Scheduling”, in proc. of ___IEEE ICC___, France, 2017.
+29. __Jiao Zhang__, Zenan Wang, Chunyi Peng, Linquan Zhang, Tao Huang, Yunjie Liu, “RABA: Resource-Aware Backup Allocation For A Chain of Virtual Network Functions”, in proc. of ___IEEE INFOCOM___, 2019.
 
-30.  Keqiang He, Weite Qin, Qiwei Zhang, Wenfei Wu, Junjie Yang, Tian Pan, Chengchen Hu, __Jiao Zhang__, Brent Stephens, Aditya Akella, Ying Zhang, "Low Latency Software Rate Limiters for Cloud Networks." In Proc. of ___ACM APNet___, 2017.
+30.  Ziwei Zhang, __Jiao Zhang__, Tao Huang, “The Reliability Mapping Monitoring Method of Network Function Virtualization”, in proc. of IEEE ICCC, 2018.
 
-31.  __Jiao Zhang__, Fengyuan Ren, Ran Shu, Peng Cheng, “TFC: Token Flow Control in Data Center Networks ”, in proc. of ___ACM EuroSys___, Apr. 2016, London, UK.
+31.  Ningning Ma, __Jiao Zhang__, Tao Huang, “A Model Based on Genetic Algorithm for Service Chain Resource Allocation in NFV”, in proc. of ___IEEE ICCCC___, 2018.
 
-32.  Tian Pan, Tao Huang, Jiang Liu, __Jiao Zhang__, Fan Yang, Shufang Li, and Yunjie Liu, “Fast Content Store Lookup Using Locality-Aware Skip List in Content-Centric Networks” in proc. of ___IEEE INFOCOM (Workshop)___, Apr. 2016.
+32.  Zenan Wang, __Jiao Zhang__, Tao Huang, Yunjie Liu, “A Clustering-based Approach for Virtual Network Function Mapping and Assigning”, in proc. of ___IEEE/ACM IWQoS (Work-in-Progress)___, 2017.
 
-33.  __Jiao Zhang__, “Deadline-Aware Bandwidth Sharing by Allocating Switch Buffer in Data Center Networks”, in Proc. of ___IEEE INFOCOM___, Apr. 2016.
+33.  Shuo Wang, __Jiao Zhang__, Tao Huang, Tian Pan, Jiang Liu, Yunjie Liu, Jin Li, Feng Li, “Skipping Congestion-links for Coflow Scheduling”, in proc. of ___IEEE/ACM IWQoS___, Spain, 2017.
 
-34.  __Jiao Zhang__, Fengyuan Ren, Chuang Lin. “Delay Guaranteed Live Migration of Virtual Machines”, in Proc. of ___IEEE INFOCOM___, 2014.
+34.  Shuo Wang, __Jiao Zhang__, Tao Huang, Tian Pan, Jiang Liu, Yunjie Liu, “Adaptively Adjusting ECN Marking Thresholds for Datacenter Networks”, in proc. of ___IEEE ICNP (poster)___, Oct. 2017.
 
-35.  Ran Shu, __Jiao Zhang__, Fengyuan Ren and Chuang Lin. “Analysing Convergence of Quantized Congestion Notification in Data Center Ethernet”, in Proc. of ___IEEE IWQoS___, Hongkong, China, May 2014.
+35.  Shuo Wang, __Jiao Zhang__, Tao Huang, Tian Pan, Jiang Liu, Yunjie Liu，”Leveraging Multiple Coflow Attributes for Information-Agnostic Coflow Scheduling”, in proc. of ___IEEE ICC___, France, 2017.
 
-36.  __Jiao Zhang__, Fengyuan Ren, Chuang Lin, “Modeling and Understanding TCP Incast in Data Center Networks”, in Proc. of ___IEEE INFOCOM___, 2011.
+36.  Keqiang He, Weite Qin, Qiwei Zhang, Wenfei Wu, Junjie Yang, Tian Pan, Chengchen Hu, __Jiao Zhang__, Brent Stephens, Aditya Akella, Ying Zhang, "Low Latency Software Rate Limiters for Cloud Networks." In Proc. of ___ACM APNet___, 2017.
 
-37.  __Jiao Zhang__, Fengyuan Ren, Li Tang, Chuang Lin, “Taming TCP Incast Throughput Collapse in Data Center Networks”, in Proc. of ___IEEE ICNP___, Oct. 2013.
+37.  __Jiao Zhang__, Fengyuan Ren, Ran Shu, Peng Cheng, “TFC: Token Flow Control in Data Center Networks ”, in proc. of ___ACM EuroSys___, Apr. 2016, London, UK.
 
-38.  __Jiao Zhang__, Fengyuan Ren, Tao He, Chuang Lin. “Attribute-aware Data Aggregation Using Dynamic Routing in Wireless Sensor Networks”, in Proc. of ___IEEE WoWMoM___, 2010.
+38.  Tian Pan, Tao Huang, Jiang Liu, __Jiao Zhang__, Fan Yang, Shufang Li, and Yunjie Liu, “Fast Content Store Lookup Using Locality-Aware Skip List in Content-Centric Networks” in proc. of ___IEEE INFOCOM (Workshop)___, Apr. 2016.
 
-39.  __Jiao Zhang__, Qian Wu, Fengyuan Ren, Tao He, Chuang Lin. “Effective Data Aggregation Supported by Dynamic Routing in Wireless Sensor Networks”, in Proc. of ___IEEE ICC___, 2010.
+39.  __Jiao Zhang__, “Deadline-Aware Bandwidth Sharing by Allocating Switch Buffer in Data Center Networks”, in Proc. of ___IEEE INFOCOM___, Apr. 2016.
 
-40.  Hongkun Yang, Fengyuan Ren, Chuang Lin, __Jiao Zhang__. “Frequency-Domain Packet Scheduling for 3GPP LTE Uplink”. In Proc. of ___IEEE INFOCOM___, 2010.
+40.  __Jiao Zhang__, Fengyuan Ren, Chuang Lin. “Delay Guaranteed Live Migration of Virtual Machines”, in Proc. of ___IEEE INFOCOM___, 2014.
+
+41.  Ran Shu, __Jiao Zhang__, Fengyuan Ren and Chuang Lin. “Analysing Convergence of Quantized Congestion Notification in Data Center Ethernet”, in Proc. of ___IEEE IWQoS___, Hongkong, China, May 2014.
+
+42.  __Jiao Zhang__, Fengyuan Ren, Chuang Lin, “Modeling and Understanding TCP Incast in Data Center Networks”, in Proc. of ___IEEE INFOCOM___, 2011.
+
+43.  __Jiao Zhang__, Fengyuan Ren, Li Tang, Chuang Lin, “Taming TCP Incast Throughput Collapse in Data Center Networks”, in Proc. of ___IEEE ICNP___, Oct. 2013.
+
+44.  __Jiao Zhang__, Fengyuan Ren, Tao He, Chuang Lin. “Attribute-aware Data Aggregation Using Dynamic Routing in Wireless Sensor Networks”, in Proc. of ___IEEE WoWMoM___, 2010.
+
+45.  __Jiao Zhang__, Qian Wu, Fengyuan Ren, Tao He, Chuang Lin. “Effective Data Aggregation Supported by Dynamic Routing in Wireless Sensor Networks”, in Proc. of ___IEEE ICC___, 2010.
+
+46.  Hongkun Yang, Fengyuan Ren, Chuang Lin, __Jiao Zhang__. “Frequency-Domain Packet Scheduling for 3GPP LTE Uplink”. In Proc. of ___IEEE INFOCOM___, 2010.
 </font>
 
 ### [Journal]
